@@ -1,0 +1,22 @@
+[
+    {
+        "title": "The Legend of Zelda: Breath of the Wild",
+        "developer": "Nintendo"
+      },
+      {
+        "title": "Red Dead Redemption 2",
+        "developer": "Rockstar Games"
+      },
+      {
+        "title": "The Witcher 3: Wild Hunt",
+        "developer": "CD Projekt Red"
+      },
+      {
+        "title": "Minecraft",
+        "developer": "Mojang Studios"
+      },
+      {
+        "title": "Fortnite",
+        "developer": "Epic Games"
+      }
+]
